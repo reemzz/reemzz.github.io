@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Since Aramis’s singular transformation into a confessor of the order, Baisemeaux was no longer the same man.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'We left in pretty good time, and came after nightfall to Klausenburgh.',
   'example3':
       'I am already far north of London, and as I walk in the streets of Petersburgh, I feel a cold northern breeze play upon my cheeks, which braces my nerves and fills me with delight.'      
 };
