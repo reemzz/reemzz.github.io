@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'We left in pretty good time, and came after nightfall to Klausenburgh.',
   'example3':
-      'I am already far north of London, and as I walk in the streets of Petersburgh, I feel a cold northern breeze play upon my cheeks, which braces my nerves and fills me with delight.'      
+      'The master is a person of an excellent disposition and is remarkable in the ship for his gentleness and the mildness of his discipline.'
 };
 
 function status(statusText) {
